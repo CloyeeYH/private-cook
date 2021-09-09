@@ -1,0 +1,29 @@
+/* ============文章列表============== */
+
+ul.newslist_time2{
+margin:0px;
+padding:0px;
+}
+
+li.newslist_time2 {
+margin:0;
+list-style-type: none;
+}
+
+li.newslist_time2 .time{
+float:right;
+font:12px/22px Verdana, Arial, Helvetica, sans-serif;
+color:#999;
+}
+
+a.newslist_time2:link,a.newslist_time2:visited,a.newslist_time2:active{
+color:#505050;
+text-decoration: none;
+font:12px/22px Verdana, Arial, Helvetica, sans-serif;
+}
+
+a.newslist_time2:hover{
+color:#ff0000;
+text-decoration: underline;
+font:12px/22px Verdana, Arial, Helvetica, sans-serif;
+}
